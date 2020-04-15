@@ -15,7 +15,7 @@ export default function Contact() {
         </Link>
         <Link
           target="_blank"
-          href="https://api.whatsapp.com/send?phone=+5542984160407&text=Hey!%20I%20have%20some%20nice%20projects%20and%20I%20think%20you%20can%20help%20me.%20Can%20we%20talk%3F"
+          href="https://api.whatsapp.com/send?phone=554284160407&text=Hey!%20I%20have%20some%20nice%20projects%20and%20I%20think%20you%20can%20help%20me.%20Can%20we%20talk%3F"
         >
           <FaWhatsapp size={16} />
           Feel free to send me a message.
